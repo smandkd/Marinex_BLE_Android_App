@@ -1,0 +1,39 @@
+앱에서 www.marinexsports.com 으로 HTTP Request 를 보내 데이터를 Response 하여 읽어들이고 ( JSON 형태 ) 또한 서버 데이터베이스에 데이터를 추가한다. 그리고 userID 와 userPassword 를 앱으로 입력하면 데이터베이스에서 두 값과 일치하는 Row를 찾고 userID, userAge, userIdx 이렇게 세가지 데이터를 Response 한 후 앱에 TextView에 출력까지 진행하였다. 차후 Login Session 을 manage 하는 단계를 진행할 예정이다. //완료
+
+2022/07/13
+- 현재 회원가입시 아이디가 중복되면 중복되었다는 알림을 띄웠고 로그인 시 Id, Password 입력란이 비어있을 경우 비었다는 알림과 Id, Password 각각 입력된 값이 데이터베이스에 없으면 다시 확인하라는 알림을 띄웠다.
+
+
+202/12/16 
+앱에서 초기화 버튼 누를 시 아두이노로 숫자 '1' 송신. 아두이노의 distance 값을 0 으로 만듦.
+하지만 버튼을 1회 이상 누를 시 아두이노의 수신 문제인지 앱의 송신 문제인지 초기화 안됨.
+따라서 상황 분석 필요. 
+
+2020/12/19
+현재 초기화 작업 성공. 
+앱 최초 시작 후 최초 RecordFragment open
+D/Lifetime: onAttach
+D/Lifetime: onCreate
+D/Lifetime: onCreateView
+D/Lifetime: onStart
+D/Lifetime: onResume
+
+이후 BluetoothFragment 이동
+D/Lifetime: onStop
+D/Lifetime: onDestroy
+D/Lifetime: onDetach
+
+이후 다시 RecordFragment
+D/Lifetime: onAttach
+D/Lifetime: onCreate
+D/Lifetime: onCreateView
+D/Lifetime: onStart
+D/Lifetime: onResume
+
+최초 RecordFragment 를 create 하고 초기화 버튼 문제없음. 하지만 이후 BluetoothFragment로 이동 혹은 다시 BT-05와 연결 시 데이터는 받아지나, 초기화 버튼 안됨. Service에 관한 분석 필요
+
+2022/12/20
+위 문제 해결. onStop() 의 service detach() 주석처리, onDetach() 의 unbindService() 주석처리. 하지만 Fragment 이동 간 계속 데이터 수신하고 앱 이 Task List 에 올라왔을 때도 데이터 수신. Task List 에서 지워야만 Service 지워짐. 즉 Service 무한 실행 상태로 바꿈. 
+
+2023/01/04
+해피뉴이어. 진재와 상의 후 RecordFragment color 수정 완료. 또한 mode - 1000m, 500m, 자유모드 로 수정. 데이터 베이스에도 1000m로 업로드됨. 그리고 RecordFragment의 receive() 함수에서 distance_int 가 mode 와 값이 같을 경우 stopRecording() 함수 호출. 하지만 화면에 출력되는 거리는 계속 늘어나는 현상. Toast 띄워서 주행완료 알림. 

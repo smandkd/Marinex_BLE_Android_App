@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bluetoothItem"
+        android:icon="@drawable/ic_baseline_bluetooth_24"
+        android:title="Bluetooth"
+        />
+    <item
+        android:id="@+id/recordItem"
+        android:icon="@drawable/ic_baseline_access_time_24"
+        android:title="Record"
+        />
+    <item
+        android:id="@+id/userItem"
+        android:icon="@drawable/ic_baseline_perm_identity_24"
+        android:title="User"
+        />
+
+</menu>

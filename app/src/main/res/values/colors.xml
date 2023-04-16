@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    -->
+    <color name="dark_blue">#022859</color>
+    <color name="dark_blue_2">#021D40</color>
+    <color name="ballad_1">#193441</color>
+    <color name="ballad_2">#3E606F</color>
+    <color name="ballad_3">#91AA9D</color>
+    <color name="ballad_4">#D1DBBD</color>
+    <color name="ballad_5">#FCFFF5</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_2">#F3F1F1</color>
+    <color name="gray">#8A8888</color>
+    <color name="greenland">#A4B3BF</color>
+    <color name="greenland_2">#D2D6D9</color>
+    <color name="greenland_3">#EDF1F4</color>
+</resources>

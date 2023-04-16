@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tab_layout" type="id" />
+    <item name="tab_1" type="id"/>
+    <item name="tab_2" type="id"/>
+    <item name="user_framelayout" type="id" />
+</resources>

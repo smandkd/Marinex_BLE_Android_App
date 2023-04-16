@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/drawable-v24/circle_gradient_border_dis.xml" value="0.331" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/drawable-v24/circle_gradient_border_time.xml" value="0.3505" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/drawable-v24/dark_blue_btn.xml" value="0.331" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/drawable-v24/dark_blue_btn_pressed_false.xml" value="0.331" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/drawable-v24/ic_baseline_pause_24.xml" value="0.331" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/drawable-v24/ic_baseline_play_arrow_24.xml" value="0.331" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/drawable-v24/icon_play.xml" value="0.3505" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/drawable/dark_blue_btn.xml" value="0.331" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/drawable/dark_blue_btn_pressed_false.xml" value="0.331" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/drawable/dark_blue_btn_pressed_true.xml" value="0.331" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/drawable/record_btn_pressed_false.xml" value="0.331" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/drawable/record_btn_pressed_true.xml" value="0.3545" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/drawable/recordfragment_corner.xml" value="0.3545" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/layout/activity_login.xml" value="0.18307291666666667" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/layout/activity_main.xml" value="0.18307291666666667" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/layout/check_mode_dialog.xml" value="0.18307291666666667" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/layout/fragment_record.xml" value="0.18307291666666667" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/layout/fragment_record_2.xml" value="0.6865234375" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/layout/fragment_user.xml" value="0.18307291666666667" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/layout/fragment_user_tab1.xml" value="0.18307291666666667" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/layout/fragment_user_tab2.xml" value="0.18307291666666667" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/layout/store_record_dialog_layout.xml" value="0.18307291666666667" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/layout/usertab2_recycler_item.xml" value="0.18307291666666667" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/menu/bluetoothfragment_top_app_bar.xml" value="0.11744791666666667" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/menu/bottomnavigationview.xml" value="0.18307291666666667" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/menu/recordfragment_top_app_bar.xml" value="0.18307291666666667" />
+        <entry key="..\:/Marinex_RecyclerView_arduino_BLE/app/src/main/res/menu/top_app_bar.xml" value="0.18307291666666667" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable-v24/ic_clear_white_24dp.xml" value="0.1955" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.178" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable-v24/terminal_btn.xml" value="0.2485" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable-v24/terminal_btn_black.xml" value="0.2485" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable-v24/terminal_btn_gray.xml" value="0.2485" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable-v24/terminal_btn_white.xml" value="0.2485" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/btn_gray.xml" value="0.326" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/dark_blue_btn.xml" value="0.188" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/dark_blue_btn_pressed_false.xml" value="0.2" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/dark_blue_btn_pressed_true.xml" value="0.188" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/dialog_layout_background.xml" value="0.215" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.178" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1955" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/ic_baseline_bluetooth_24.xml" value="0.2185" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.178" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/ic_baseline_check_box_outline_blank_24.xml" value="0.178" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.178" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/ic_baseline_pause_24.xml" value="0.178" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/ic_baseline_perm_identity_24.xml" value="0.2485" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.178" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.178" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/ic_baseline_restore_24.xml" value="0.178" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2485" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/record_btn.xml" value="0.178" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/record_btn_pressed_false.xml" value="0.178" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/record_btn_pressed_true.xml" value="0.178" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/terminal_btn.xml" value="0.2" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/terminal_btn_black.xml" value="0.2485" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/terminal_btn_gray.xml" value="0.264" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/terminal_btn_white.xml" value="0.2485" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/drawable/text_click_color.xml" value="0.178" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/font-v26/nanum_gotic_bold.xml" value="0.28541666666666665" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/font/font_nanum_gothic.xml" value="0.264" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/font/font_notosanskr_regular.xml" value="0.21328125" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/font/gothic_a1_light.xml" value="0.21328125" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/font/nanum_gotic.xml" value="0.21158301158301157" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/font/nanumgothic_coding.xml" value="0.21328125" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/font/nanumgothiccoding_regular.xml" value="0.2140625" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/activity_intro.xml" value="0.2552083333333333" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/activity_login.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/activity_user.xml" value="0.703012912482066" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/check_mode_dialog.xml" value="0.478515625" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/delete_record_dialog_layout.xml" value="0.4765625" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/device_list_header.xml" value="0.6865234375" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/find_id_pw_dialog_layout.xml" value="0.536" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/findpw_dialog_layout.xml" value="0.1" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/fragment_bluetooth.xml" value="0.6" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/fragment_bluetooth2.xml" value="0.2552083333333333" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/fragment_record.xml" value="0.33" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/fragment_record2.xml" value="0.24166666666666667" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/fragment_user.xml" value="0.18307291666666667" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/fragment_user_tab1.xml" value="0.5" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/fragment_user_tab2.xml" value="0.5" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/layout/store_record_dialog_layout.xml" value="0.536" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/menu/bluetoothfragment_top_app_bar.xml" value="0.6845703125" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/menu/bottomnavigationview.xml" value="0.67" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/menu/recordfragment_top_app_bar.xml" value="0.24666666666666667" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/menu/top_app_bar.xml" value="0.4" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/mipmap-anydpi-v26/marinexlogo.xml" value="0.2485" />
+        <entry key="..\:/android_project/20220623_Retrofitreadmysql/app/src/main/res/mipmap-anydpi-v26/marinexlogo_round.xml" value="0.12" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

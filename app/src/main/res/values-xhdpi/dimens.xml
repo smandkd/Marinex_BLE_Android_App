@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="button_text_size">20sp</dimen>
+
+    <!-- Login Activity-->
+    <dimen name="login_id_tv_marginTop">450dp</dimen>
+    <dimen name="login_pw_ev_layout_marginTop">30dp</dimen>
+    <dimen name="login_btn_marginTop">50dp</dimen>
+
+    <!-- Join Activity-->
+
+    <!-- Record Fragment-->
+    <dimen name="record_constraint_marginTop">70dp</dimen>
+    <dimen name="record_constraint_layout_width">400dp</dimen>
+    <dimen name="record_tv_marginStart">80dp</dimen>
+    <dimen name="record_tv_calorie_marginStart">70dp</dimen>
+    <dimen name="record_tv_marginEnd">70dp</dimen>
+    <dimen name="record_tv_speed_marginEnd">60dp</dimen>
+    <dimen name="record_constraint_layout_height">100dp</dimen>
+    <dimen name="record_btn_width">160dp</dimen>
+    <dimen name="record_btn_height">65dp</dimen>
+    <dimen name="record_btn_marginStart">20dp</dimen>
+    <dimen name="record_btn_marginEnd">20dp</dimen>
+
+    <!-- User Fragment 2 -->
+    <dimen name="user2_table_width">400dp</dimen>
+    <dimen name="user2_title_text_size">16sp</dimen>
+
+    <!-- User Fragment 1 -->
+    <dimen name="user1_table_width">400dp</dimen>
+    <dimen name="user1_title_text_size">16sp</dimen>
+</resources>

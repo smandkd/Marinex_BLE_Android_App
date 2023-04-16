@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="10dp"
+    android:shape="rectangle">
+    <solid
+        android:color="@color/gray"/>
+
+    <size
+        android:width="@dimen/record_btn_width"
+        android:height="@dimen/record_btn_height"/>
+
+    <corners
+        android:radius="20dp"/>
+
+
+</shape>
